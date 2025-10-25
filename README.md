@@ -1,8 +1,3 @@
-🪶 GitHub Repository Description (Short)
-
-A simple Python Flask web app containerized using Docker. Demonstrates how to build, run, and deploy a containerized application, and includes notes for Kubernetes deployment.
-
-🐳 README.md (for GitHub repository)
 # 🐳 Flask App in Docker
 
 This repository contains a simple **Python Flask web application** that displays:
