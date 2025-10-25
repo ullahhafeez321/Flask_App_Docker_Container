@@ -44,8 +44,8 @@ Additionally, it provides steps for optional deployment to **Kubernetes**.
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/ullahhafeez321/Flask_App_Docker_Container.git
+cd Flask_App_Docker_Container
 ```
 
 ### Step 2 — Build the Docker Image
